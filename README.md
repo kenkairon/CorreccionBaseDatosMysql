@@ -13,7 +13,7 @@
     fecha_creacion TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
-![Creación de la Tabla](img/usuario)
+![Creación de la Tabla](img/usuario.png)
 ### OBSERVACION 
 
 🧩 Hay Cambiar contraseña_hash por contrasena_hash
