@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS sistema_indicadores;
+USE sistema_indicadores;
+
 CREATE TABLE IF NOT EXISTS usuario(
     id_usuario INT AUTO_INCREMENT PRIMARY KEY,
     nombre_usuario VARCHAR(50) UNIQUE NOT NULL,
